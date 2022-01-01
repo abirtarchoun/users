@@ -1,18 +1,17 @@
-"users" :[
+"users":[
      {
      "id" :"1",
     "et_email": "abirtarchoun@gmail.com",
     "et_password": "abir123",
     "et_name": "tarchoun abir",
-     "et_repassword": "abir123",
- 
+     "et_repassword": "abir123"
   },
-       {
-     "id" :"1",
+  {
+     "id" :"2",
     "et_email": "tarchoun@gmail.com",
     "et_password": "123456789",
     "et_name": "abir",
-     "et_repassword": "123456789",
+     "et_repassword": "123456789"
  
   }
-  ]
+]
